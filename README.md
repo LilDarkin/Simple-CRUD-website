@@ -6,7 +6,8 @@ A Simple CRUD website with authentication using PHP and MySQL
 # Instructions
 1. Clone the repository
 2. Create database and name it "blogdb"
-3. Run the file login.php
+3. Import the blogdb.sql into the database
+4. Run the file login.php
 
 You can try this account for login
 email: synapse@gmail.com
